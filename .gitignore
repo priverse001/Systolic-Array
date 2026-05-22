@@ -1,0 +1,85 @@
+# ============================================================
+# Vivado Project Files
+# (Fully reproducible via: source scripts/create_project.tcl)
+# ============================================================
+systolic_array_project/
+project_1/
+project_1.xpr
+project_1.cache/
+project_1.hw/
+project_1.ip_user_files/
+project_1.sim/
+project_2/
+project_2.xpr
+project_2.cache/
+project_2.hw/
+project_2.ip_user_files/
+project_2.sim/
+
+# Vivado generic generated files
+*.jou
+*.str
+*.wdb
+*.pb
+*.bit
+*.ltx
+*.rpt
+*.dcp
+*.xdc
+*.mem
+*.mmi
+NA/
+
+# XSim artifacts
+sim/xsim.dir/
+sim/*.jou
+sim/*.log
+sim/*.pb
+sim/*.wdb
+sim/*.vcd
+sim/*.str
+sim/*.hex
+
+# ============================================================
+# Generated Test Data
+# (Reproducible via: python scripts/golden_model.py)
+# ============================================================
+data/*.hex
+
+# ============================================================
+# LaTeX Build Artifacts
+# ============================================================
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.synctex.gz
+docs/*.fls
+docs/*.fdb_latexmk
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ============================================================
+# OS / Editor
+# ============================================================
+Thumbs.db
+.DS_Store
+Desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temp files
+prd.txt
