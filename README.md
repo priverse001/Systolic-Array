@@ -513,9 +513,7 @@ systolic_top_cdc                    ← Synthesis top (dual-clock)
 | Document | Location | Description |
 |----------|----------|-------------|
 | Architecture Guide | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Deep-dive: PE, skew, FSM, AXI, CDC, verification methodology, synthesis notes |
-| Interview Prep | [`docs/INTERVIEW_PREP.md`](docs/INTERVIEW_PREP.md) | 8 detailed Q&A answers for hardware/ASIC/RTL interviews |
 | Design Report (PDF) | [`docs/project_report.pdf`](docs/project_report.pdf) | Full project report with waveforms and analysis |
-| PRD | [`docs/Systolic_Array_PRD.docx`](docs/Systolic_Array_PRD.docx) | Product Requirements Document |
 | Changelog | [`CHANGELOG.md`](CHANGELOG.md) | Version history (v1.0 → v2.0) |
 
 ---
